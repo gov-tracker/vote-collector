@@ -1,0 +1,11 @@
+# Default config file.
+parent_page = ""
+space = ""
+confluence_url = "https://eteamspace.internal.ericsson.com"
+jira_url = "https://eteamproject.internal.ericsson.com"
+gitlab_url = "https://gitlab.internal.ericsson.com"
+
+[changelog]
+header = ""
+ignored_sections = [
+]

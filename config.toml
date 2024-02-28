@@ -1,0 +1,3 @@
+gov_url = "https://sejm.gov.pl/sejm9.nsf"
+gov_url_vote_endpoint = "symbol=posglos"
+gov_too_endpoint = "NrKadencji"

@@ -1,0 +1,1 @@
+from meeting.meeting import Meeting
